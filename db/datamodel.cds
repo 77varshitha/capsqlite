@@ -25,5 +25,7 @@ context master {
         section: Int16;
     }
 
-    
+    //to build cds build, to deploy cds deploy -2 sqlite
+    //npm install -g sqlite3@5.1.1
+    //to connect db go to the sql tools and create a new db with the db file name which is created in the project
 }

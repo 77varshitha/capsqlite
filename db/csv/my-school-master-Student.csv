@@ -1,0 +1,5 @@
+studentId,name,class_classId,parent,joiningDate,country_code,validFrom, validTo
+1,Varshitha,10,Srinu,2022-01-02,IN,2001-01-01,2999-12-30
+2,Ananya,10,Pamdey,2022-11-02,JP,2002-02-02,2930-12-23
+3,Sai,10,Padma,2022-12-02,IN,2001-02-03,2999-12-30
+4,Bhavya,10,irrkam,2022-12-12,IN,2002-02-12,2930-12-13
